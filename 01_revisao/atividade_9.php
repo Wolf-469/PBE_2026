@@ -13,3 +13,4 @@ elseif ($idade_pessoa >= 14
 else{
     echo "Menores de 14 não pode entrar,mesmo acompanhada!!"
 }
+?>
