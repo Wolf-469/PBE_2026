@@ -10,6 +10,6 @@ $funcionarios = [
 
 foreach ($funcionarios as $funcionario){
     echo "Nome: {$funcionario['nome']}<br>";
-    
+    echo "cargo:"
 }
 ?>
