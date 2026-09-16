@@ -8,8 +8,8 @@
 <body>
     <h1>Número<h1>
     <form action="logica.php" method="POST">
-        <label for ="">numero 2:</label>
-        <input type="number" name="numero1">
+        <label for ="">nome</label>
+        <input type="" name="numero1">
         <br><br>
         <label for ="">numero 2:</label>
         <input type="number" name="numero2">
