@@ -29,5 +29,6 @@
 
         <br><br>
         <button type="submit">Comprar Ingressos</button>
-</body>
+    </form>
+  </body>
 </html>
